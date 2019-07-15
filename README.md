@@ -1,2 +1,4 @@
-# go-weather
-Simple endpoint calling weather endpoints
+# Golang + Docker
+
+Simple endpoint getting information from current docker status.
+
